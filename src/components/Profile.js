@@ -19,7 +19,7 @@ function Profile() {
           width: 300,
           height: 300,
           margin: "auto",
-          border: "80px solid #3f51b5",
+          border: "40px solid #3f51b5",
         }}
       />
       <Typography variant="h4" gutterBottom color="#3f51b5">
