@@ -7,7 +7,7 @@ function Profile() {
       alignItems="center"
       textAlign="center"
       py={5}
-      bgcolor="#f5f5f5"
+      bgcolor="#cdd1d1"
       borderRadius={3}
       boxShadow={3}
       spacing={2}
@@ -19,7 +19,7 @@ function Profile() {
           width: 300,
           height: 300,
           margin: "auto",
-          border: "40px solid #3f51b5",
+          border: "40px solid #c4f2f0",
         }}
       />
       <Typography variant="h4" gutterBottom color="#3f51b5">
